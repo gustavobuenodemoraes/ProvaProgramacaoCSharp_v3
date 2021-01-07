@@ -1,0 +1,282 @@
+[
+  {
+    "ID_MOEDA": "AFN",
+    "cod_cotacao": "66"
+  },
+  {
+    "ID_MOEDA": "ALL",
+    "cod_cotacao": "49"
+  },
+  {
+    "ID_MOEDA": "ANG",
+    "cod_cotacao": "33"
+  },
+  {
+    "ID_MOEDA": "ARS",
+    "cod_cotacao": "3"
+  },
+  {
+    "ID_MOEDA": "AWG",
+    "cod_cotacao": "6"
+  },
+  {
+    "ID_MOEDA": "BOB",
+    "cod_cotacao": "56"
+  },
+  {
+    "ID_MOEDA": "BYN",
+    "cod_cotacao": "64"
+  },
+  {
+    "ID_MOEDA": "CAD",
+    "cod_cotacao": "25"
+  },
+  {
+    "ID_MOEDA": "CDF",
+    "cod_cotacao": "58"
+  },
+  {
+    "ID_MOEDA": "CLP",
+    "cod_cotacao": "16"
+  },
+  {
+    "ID_MOEDA": "COP",
+    "cod_cotacao": "37"
+  },
+  {
+    "ID_MOEDA": "CRC",
+    "cod_cotacao": "52"
+  },
+  {
+    "ID_MOEDA": "CUP",
+    "cod_cotacao": "8"
+  },
+  {
+    "ID_MOEDA": "CVE",
+    "cod_cotacao": "51"
+  },
+  {
+    "ID_MOEDA": "CZK",
+    "cod_cotacao": "29"
+  },
+  {
+    "ID_MOEDA": "DJF",
+    "cod_cotacao": "36"
+  },
+  {
+    "ID_MOEDA": "DZD",
+    "cod_cotacao": "54"
+  },
+  {
+    "ID_MOEDA": "EGP",
+    "cod_cotacao": "12"
+  },
+  {
+    "ID_MOEDA": "EUR",
+    "cod_cotacao": "20"
+  },
+  {
+    "ID_MOEDA": "FJD",
+    "cod_cotacao": "38"
+  },
+  {
+    "ID_MOEDA": "GBP",
+    "cod_cotacao": "22"
+  },
+  {
+    "ID_MOEDA": "GEL",
+    "cod_cotacao": "48"
+  },
+  {
+    "ID_MOEDA": "GIP",
+    "cod_cotacao": "18"
+  },
+  {
+    "ID_MOEDA": "HTG",
+    "cod_cotacao": "63"
+  },
+  {
+    "ID_MOEDA": "ILS",
+    "cod_cotacao": "40"
+  },
+  {
+    "ID_MOEDA": "IRR",
+    "cod_cotacao": "17"
+  },
+  {
+    "ID_MOEDA": "ISK",
+    "cod_cotacao": "11"
+  },
+  {
+    "ID_MOEDA": "JPY",
+    "cod_cotacao": "9"
+  },
+  {
+    "ID_MOEDA": "KES",
+    "cod_cotacao": "21"
+  },
+  {
+    "ID_MOEDA": "KMF",
+    "cod_cotacao": "19"
+  },
+  {
+    "ID_MOEDA": "LBP",
+    "cod_cotacao": "42"
+  },
+  {
+    "ID_MOEDA": "LSL",
+    "cod_cotacao": "4"
+  },
+  {
+    "ID_MOEDA": "MGA",
+    "cod_cotacao": "35"
+  },
+  {
+    "ID_MOEDA": "MGB",
+    "cod_cotacao": "26"
+  },
+  {
+    "ID_MOEDA": "MMK",
+    "cod_cotacao": "69"
+  },
+  {
+    "ID_MOEDA": "MRO",
+    "cod_cotacao": "53"
+  },
+  {
+    "ID_MOEDA": "MRU",
+    "cod_cotacao": "15"
+  },
+  {
+    "ID_MOEDA": "MUR",
+    "cod_cotacao": "7"
+  },
+  {
+    "ID_MOEDA": "MXN",
+    "cod_cotacao": "41"
+  },
+  {
+    "ID_MOEDA": "MZN",
+    "cod_cotacao": "43"
+  },
+  {
+    "ID_MOEDA": "NIO",
+    "cod_cotacao": "23"
+  },
+  {
+    "ID_MOEDA": "NOK",
+    "cod_cotacao": "62"
+  },
+  {
+    "ID_MOEDA": "OMR",
+    "cod_cotacao": "34"
+  },
+  {
+    "ID_MOEDA": "PEN",
+    "cod_cotacao": "45"
+  },
+  {
+    "ID_MOEDA": "PGK",
+    "cod_cotacao": "2"
+  },
+  {
+    "ID_MOEDA": "PHP",
+    "cod_cotacao": "24"
+  },
+  {
+    "ID_MOEDA": "RON",
+    "cod_cotacao": "5"
+  },
+  {
+    "ID_MOEDA": "SAR",
+    "cod_cotacao": "44"
+  },
+  {
+    "ID_MOEDA": "SBD",
+    "cod_cotacao": "32"
+  },
+  {
+    "ID_MOEDA": "SGD",
+    "cod_cotacao": "70"
+  },
+  {
+    "ID_MOEDA": "SLL",
+    "cod_cotacao": "10"
+  },
+  {
+    "ID_MOEDA": "SOS",
+    "cod_cotacao": "61"
+  },
+  {
+    "ID_MOEDA": "SSP",
+    "cod_cotacao": "47"
+  },
+  {
+    "ID_MOEDA": "SZL",
+    "cod_cotacao": "55"
+  },
+  {
+    "ID_MOEDA": "THB",
+    "cod_cotacao": "39"
+  },
+  {
+    "ID_MOEDA": "TRY",
+    "cod_cotacao": "13"
+  },
+  {
+    "ID_MOEDA": "TTD",
+    "cod_cotacao": "67"
+  },
+  {
+    "ID_MOEDA": "UGX",
+    "cod_cotacao": "59"
+  },
+  {
+    "ID_MOEDA": "USD",
+    "cod_cotacao": "1"
+  },
+  {
+    "ID_MOEDA": "UYU",
+    "cod_cotacao": "46"
+  },
+  {
+    "ID_MOEDA": "VES",
+    "cod_cotacao": "68"
+  },
+  {
+    "ID_MOEDA": "VUV",
+    "cod_cotacao": "57"
+  },
+  {
+    "ID_MOEDA": "WST",
+    "cod_cotacao": "28"
+  },
+  {
+    "ID_MOEDA": "XAF",
+    "cod_cotacao": "30"
+  },
+  {
+    "ID_MOEDA": "XAU",
+    "cod_cotacao": "60"
+  },
+  {
+    "ID_MOEDA": "XDR",
+    "cod_cotacao": "27"
+  },
+  {
+    "ID_MOEDA": "XOF",
+    "cod_cotacao": "14"
+  },
+  {
+    "ID_MOEDA": "XPF",
+    "cod_cotacao": "50"
+  },
+  {
+    "ID_MOEDA": "ZAR",
+    "cod_cotacao": "65"
+  },
+  {
+    "ID_MOEDA": "ZWL",
+    "cod_cotacao": "31"
+  }
+]
